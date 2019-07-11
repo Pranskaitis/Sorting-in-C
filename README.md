@@ -1,4 +1,4 @@
-# Sorting_in_C
+# Sorting-in-C
 
 Language: C
 
